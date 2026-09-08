@@ -1,22 +1,21 @@
 # Quickstart
 
+Added new content
+
 Get up and running in GitBook and publish your first docs site in minutes
 
 This quickstart guide explains how to get set up in GitBook and publish your first docs site in minutes.
 
 <a class="button secondary"></a>
 
-At the end of this guide, you’ll have a live documentation site, ready to expand and customize.
 
-<a class="button secondary"></a>
-
-**Create your account**
+**Create your account** editing 
 
 [Create an account](https://app.gitbook.com/join) to get started with your first documentation site.
 
 <a class="button secondary"></a>
 
-**Create your first site**
+**Create editing your first site**
 
 1.  From your organization **Home**, click the **+** next to **Sites** in the sidebar.
 
@@ -30,7 +29,7 @@ At the end of this guide, you’ll have a live documentation site, ready to expa
 
 **Choose how you want to start**
 
-GitBook welcomes you to your new site and asks how you'd like to begin.
+Replaced the word welcomes you to your new site and asks how you'd like to begin.
 
 <a class="button secondary"></a>Starting pointBest for
 
@@ -87,11 +86,11 @@ Your site name, its publish status, and the **Preview** and **Publish** buttons.
 
 **Styleguide**, **Customize**, **Analyze**, and **Extend**.
 
-**Content**
+**Content** make changes
 
 These are your site's sections - for the Docs template: Home, Documentation, API Reference, Changelog, and Help Center. Use the icons on the **Content** header to find, rename, and add sections.
 
-Your content isn't published yet — so you can edit, customize, and preview your docs site before making it live. Click **Publish** to make it live immediately.
+Your content isn't not at all published yet — so you can edit, customize, and preview your docs site before making it live. Click **Publish** to make it live immediately.
 
 <a class="button secondary"></a>
 
@@ -109,7 +108,7 @@ There are two ways to edit and update your content in GitBook — in our visual 
 
 <a class="button secondary"></a>Visual editorAI Agent
 
-GitBook's what-you-see-is-what-you-get (WYSIWYG) editor lets you edit content visually, drag content blocks to reorganize them, and see how your content looks as you work. It's ideal if you don't want to work in a code editor, or you're used to tools like Notion or Google Docs.
+GitBook's what-you- used to tools like Notion or Google Docs.
 
 <a class="button secondary"></a>
 
@@ -123,7 +122,7 @@ GitBook's what-you-see-is-what-you-get (WYSIWYG) editor lets you edit content vi
 2.  Click **Edit** in the top-right corner. This opens a change request where you can change the content of the section.
 
     <a class="button secondary"></a>
-3.  Click **Add new…** > **Page** in the table of contents on the left-hand side.
+3.  Click **Add new…** > **Page*e of contents on the left-hand side.
 
     <a class="button secondary"></a>
 4.  Give your new page a title.
@@ -152,7 +151,7 @@ Once you're happy with your changes, click the **Merge** button in the top-right
 
 <a class="button secondary"></a>
 
-Add more content to your site — an API reference, a help center, a changelog — at any time, and organize your site's navigation bar so visitors find what they're looking for. Head to [Site structure](https://gitbook.com/docs/manage-your-site/site-structure) to learn about sections, groups, and variants.
+Add more content to your site — an API ref, a help center, a changelog — at any time, and organize your site's navigation bar so visitors find what they're looking for. Head to [Site structure](https://gitbook.com/docs/manage-your-site/site-structure) to learn about sections, groups, and variants.
 
 <a class="button secondary"></a>
 
