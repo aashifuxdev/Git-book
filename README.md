@@ -1,7 +1,9 @@
 # Page
 
 
-Override - Push again from GIT - Start wrting
+
 Git Sync allows technical teams to synchronize GitHub or GitLab repositories with GitBook and turn Markdown files into beautiful, user-friendly docs. Edit directly in GitBook’s powerful editor while 
-Adding few comments. keeping content synchronized with your codebase on GitHub or GitLab.
+Replaced few comments. keeping content synchronized with your codebase on GitHub or GitLab.
 Git Sync is replaced, so changes you make directly in GitBook’s editor are automatically synced, as are any commits made on GitHub or GitLab. This allows developers to commit directly from GitHub or GitLab and technical writers, instructional designers and product managers to edit, discuss and feedback changes directly in GitBook.
+
+Adding new changes
