@@ -1,6 +1,6 @@
 # Quickstart
 
-Removed from github
+Removed from github. adding new
 
 This quickstart guide explains how to get set up in GitBook and publish your first docs site in minutes.
 
