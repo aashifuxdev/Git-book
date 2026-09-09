@@ -1,3 +1,3 @@
 # MultiPage
 
-Add
+Removed text
