@@ -1,6 +1,6 @@
 # Quickstart
 
-Removed from github. adding new
+Removed from github. adding new text
 
 This quickstart guide explains how to get set up in GitBook and publish your first docs site in minutes.
 
@@ -15,7 +15,7 @@ This quickstart guide explains how to get set up in GitBook and publish your fir
 
 **Create editing your first site**
 
-1.  From your organization **Home**, click the **+** next to **Sites** in the sidebar.
+1.  From your organization called **Home**, click the **+** next to **Sites** in the sidebar.
 
     <a class="button secondary"></a>
 2.  Give your site a name your visitors will recognize.
