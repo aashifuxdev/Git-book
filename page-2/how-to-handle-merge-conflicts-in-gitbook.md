@@ -1,3 +1,7 @@
+---
+description: Added description
+---
+
 # How to handle merge conflicts in GitBook
 
 #### Understand the conflic <a href="#understand-the-conflic" id="understand-the-conflic"></a>
