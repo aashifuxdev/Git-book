@@ -1,8 +1,6 @@
 # Quickstart
 
-Added new content
-
-Get up and running in GitBook and publish your first docs site in minutes
+Removed from github
 
 This quickstart guide explains how to get set up in GitBook and publish your first docs site in minutes.
 
