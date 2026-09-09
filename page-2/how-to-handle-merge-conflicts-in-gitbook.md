@@ -1,8 +1,16 @@
 ---
-description: Added description github
+description: Added gitbook updated
+tags:
+  - tag-check
 ---
 
 # How to handle merge conflicts in GitBook
+
+#### <code class="expression">space.vars.Variablecheck</code> <a href="#understand-the-conflic" id="understand-the-conflic"></a>
+
+<figure><img src="../.gitbook/assets/images.png" alt=""><figcaption></figcaption></figure>
+
+
 
 #### Understand the conflic <a href="#understand-the-conflic" id="understand-the-conflic"></a>
 
@@ -12,4 +20,4 @@ For example, if someone else on your team opens a change request at the same tim
 
 However, if you’ve edited the same blocks as your teammate, you’ll need to decide which version you want to keep, and GitBook will flag it as a conflict.
 
-<a class="button secondary"></a><br>
+<br>
