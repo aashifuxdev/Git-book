@@ -1,5 +1,5 @@
 ---
-description: Added description
+description: Added description github
 ---
 
 # How to handle merge conflicts in GitBook
