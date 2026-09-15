@@ -1,4 +1,4 @@
 # MultiPage
 
-Add content in gitbook
+removed the content
 
