@@ -6,4 +6,4 @@ removed the content
 
 &#x20;![](../.gitbook/assets/images.png)
 
-<figure><img src="../.gitbook/assets/images.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/.gitbook/assets/Screenshot 2025-08-05 105027.png" alt=""><figcaption></figcaption></figure>
