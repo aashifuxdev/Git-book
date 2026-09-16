@@ -1,6 +1,9 @@
-# MultiPage renamed tile
+# MultiPage title change
 
-remove the text in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in github
+Adding new content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in githubdd content in gitbook after commit in github
 
 removed the content
 
+&#x20;![](../.gitbook/assets/images.png)
+
+<figure><img src="../.gitbook/assets/images.png" alt=""><figcaption></figcaption></figure>
