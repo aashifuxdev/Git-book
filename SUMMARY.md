@@ -2,4 +2,4 @@
 
 * [Page 2](README.md)
   * [How to handle merge conflicts in GitBook](page-2/how-to-handle-merge-conflicts-in-gitbook.md)
-  * [MultiPage title change](page-2/multipage.md)
+  * [MultiPage title change](page-2/multipage-title-change.md)
